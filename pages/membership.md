@@ -13,7 +13,7 @@ You're  welcome to attend our club meetings as a guest—free of charge—to see
 
 Once you decide to join, you can do so by following these steps: 
 
-1. Email us the joining form
+1. Email us the [**joining form**]("/membershipform/")
 2. Pay one of the amounts (6 or 12 months, see below) by bank transfer using the following details:
 
 | Bank item |Details|
