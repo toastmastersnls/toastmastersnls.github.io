@@ -23,18 +23,18 @@ Once you decide to join, you can do so by following these steps:
 
 ### **New member**
 
-6 Months: £100 
+6 Months: £116 
 
-12 Months: £180 
+12 Months: £200 
 
 _Included in the fee is a contribution of £20 for new joiners. This enables Toastmasters International to register you and access the online resources.
 You won’t need to pay this again (unless your membership lapses and you re-join)._
 
 ### **Or, if you are an existing member**
 
-6 Months: £80
+6 Months: £96
 
-12 Months: £160
+12 Months: £180
 
 ##### <br/> How your membership fees contribute:
 
