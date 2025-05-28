@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Booking Roles and Speeches"
-author: sal
+author: Admin
 categories: [ Jekyll, tutorial ]
 image: assets/images/2.jpg
 ---
