@@ -9,11 +9,11 @@ image:
 
 You're  welcome to attend our club meetings as a guest—free of charge—to see if we are the right fit for you. You can visit as many times as you like, but to access the full benefits of Toastmasters, you will need to become a member.
 
-</br>**Joining us**
+**Joining us**
 
 Once you decide to join, you can do so by following these steps: 
 
-1. Complete the joining form at https://www.bloomsburyspeakers.org.uk/join/form/
+1. Email us the joining form
 2. Pay one of the amounts (6 or 12 months, see below) by bank transfer using the following details:
 
 | Bank item |Details|
@@ -23,18 +23,14 @@ Once you decide to join, you can do so by following these steps:
 | Sort Code.  | 60 04 24 |
 | Reference | Your Name |
 
-</br>**New member**
-|6 Months | 12 Months|
-| ------------- | ------------- |
-£100 |  £180  |
+**New member**
+6 Months: £100 | 12 Months: £180 
 
-(Included in the fee is a contribution of **£20** for new joiners (included in the table below). This enables Toastmasters International to register you and access to the online resources.
+_Included in the fee is a contribution of £20 for new joiners (included in the table below). This enables Toastmasters International to register you and access the online resources.
 You won’t need to pay this again (unless your membership lapses and you re-join)._
 
-</br>**Or, if you are an existing member**
-|6 Months | 12 Months|
-| ------------- | ------------- |
-|£80 | £160 |
+**Or, if you are an existing member**
+6 Months: £80 | 12 Months: £160
 
 <br/> How your membership fees contribute:
 
