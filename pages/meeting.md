@@ -11,7 +11,9 @@ We meet every 1<sup>st</sup> and 3<sup>rd</sup> Monday of the month at 7.15pm fo
 
 You can find our next meeting date and tentative agenda by visiting [**our Club's Toastmaster website**](https://toastmasterclub.org/view_agenda.php?t=101461).
 
-# </br> **Location**
+</br>
+
+# **Location**
 
 - The Oak and Pastor Pub in Archway (approx. 7 mins walk from Archway station)
 - As you enter the pub, head straight and go **upstairs** to the meeting room on the left-hand side
