@@ -17,8 +17,8 @@ As you grow more comfortable with the meeting format, you'll be encouraged to tr
 | Toastmaster | A meeting's director and host. |
 | Timekeeper  | Responsible for monitoring the time of meeting segments and speakers.|
 | Grammarian  | Helps club members improve their grammar and vocabulary. |
-| Meeting Speaker&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  |Every speaker is a role model and club members learn from one another's speeches.
-| Topicsmaster&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Plans and runs the Table Topics (up to 2 minutes each) for the meeting. |
-| Table Topics Speaker&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Practics their impromptu speaking skills.
+| Meeting Speaker&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  |Every speaker is a role model and club members learn from one another's speeches.
+| Topicsmaster&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |Plans and runs the Table Topics for the meeting.|
+| Table Topics Speaker&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Practics their impromptu speaking skills.|
 | Evaluator  | Provides verbal and written feedback to meeting speakers.|
 | General Evaluator &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Evaluates everything and everyone, not already evaluated, that takes place during the club meeting.|
