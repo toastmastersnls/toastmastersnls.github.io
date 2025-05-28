@@ -9,7 +9,7 @@ image:
 >**Either print this out or copy and paste into an email.**
 
 
-</br>
+
 
 **I am interested in joining Northern Lights Speakers Club.**
 
