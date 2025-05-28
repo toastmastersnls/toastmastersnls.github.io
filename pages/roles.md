@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Functionary Roles
+title: Functionary roles
 permalink: "/roles/"
 image: 
 ---
