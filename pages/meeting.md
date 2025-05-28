@@ -1,6 +1,6 @@
 ---
 layout: page
-title: meeting
+title: Meeting
 permalink: "/meeting/"
 image: 
 ---
