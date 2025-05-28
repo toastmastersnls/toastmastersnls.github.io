@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Meeting
+title: Meeting timings and location
 permalink: "/meeting/"
 image: 
 ---
 
-# **Timings**
+**Timings**
 
 We meet every 1<sup>st</sup> and 3<sup>rd</sup> Monday of the month at 7.15pm for a 7.30pm start. 
 
@@ -13,7 +13,7 @@ You can find our next meeting date and tentative agenda by visiting [**our Club'
 
 
 
-# **Location**
+**Location**
 
 - The Oak and Pastor Pub in Archway (approx. 7 mins walk from Archway station)
 - As you enter the pub, head straight and go **upstairs** to the meeting room on the left-hand side
