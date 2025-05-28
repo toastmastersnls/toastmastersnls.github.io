@@ -11,19 +11,18 @@ Northern Lights Speakers Club, founded in 2004, is named for our North London ro
 
 We are a dynamic and friendly public speaking club in North London affiliated with Toastmasters International. We are open to all, from the absolute beginner to the experienced speaker. Some of us are preparing to give a knockout wedding speech, others to become an inspirational leader or nail a job interview.
 
+
 **What we do**
 
 We believe that consistent practice is key. By showing up and speaking regularly, you will grow into a more confident, impactful communicator. Our club offers a supportive yet challenging environment where we help each other improve and reach our goals.
 
-When you join our club, you’ll follow Toastmasters’ Pathways programme, choosing the communication and leadership skills you want to develop. You’ll practice both impromptu and prepared speeches, focusing on areas like structure, vocal variety, language, gestures, and persuasion.
+When you join our club, you will follow Toastmasters’ _Pathways_ programme, and:
 
-With Northern Lights you will:
-• Gain communication and leadership skills (e.g. deliver your message with presence and impact; build confidence and self-awareness, give and receive constructive feedback, practice writing speeches and presentations, overcome your fear of public speaking)
+• Gain communication and leadership skills (e.g. deliver your message with presence and impact; build confidence and self-awareness, give and receive constructive feedback, practice both impromptu and prepared speeches ocusing on areas like structure, vocal variety, language, gestures, and persuasion, overcome your fear of public speaking)
 
 • Gain a competitive edge in your life and career
 
 • Make new friends, and more. Join us on the journey!
-
 
 **What is Toastmasters?**
 
