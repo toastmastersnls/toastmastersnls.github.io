@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Membership form
-permalink: "/form/"
+permalink: "/membershipform/"
 image:
 ---
 
