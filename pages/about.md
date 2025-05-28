@@ -9,7 +9,7 @@ image: assets/images/2019-LASTUDIO-17 (1).jpg
 
 Northern Lights Speakers Club, founded in 2004, is named for our North London roots, our mission to help members sparkle and shine. Our first president Carin Schwart was from Sweden, the homeland of the northern lights.
 
-We are a dynamic and friendly public speaking club affiliated with Toastmasters International. We are open to all, from the absolute beginner to the experienced speaker. Some of us are preparing to give a knockout wedding speech, others to become an inspirational leader or nail a job interview.
+We are a dynamic and friendly public speaking club affiliated with Toastmasters International and are open to everyone, from complete beginners to seasoned speakers. Our members join for many reasons: to deliver a memorable wedding speech, become an inspiring leader, or ace a job interview.
 
 
 **What we do**
