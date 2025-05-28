@@ -11,8 +11,8 @@ As you grow more comfortable with the meeting format, you'll be encouraged to tr
 
 |Roles         | Description |
 | ------------- | ------------- |
-| Sergent at Arms  | Arrives early. Sets up the room and welcomes guests. |
-| President  | Opens the meeting and sets the tone. |
+| Sergent at Arms </br> | Arrives early. Sets up the room and welcomes guests. |
+| President  </br>| Opens the meeting and sets the tone.|
 | Toastmaster | A meeting's director and host. |
 | Timekeeper  | Responsible for monitoring the time of meeting segments and speakers.|
 | Grammarian  | Helps club members improve their grammar and vocabulary. |
