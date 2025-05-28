@@ -5,7 +5,7 @@ permalink: "/roles/"
 image: 
 ---
 
-Each Toastmasters meeting includes a variety of [speaking and support roles](https://www.toastmasters.org/membership/club-meeting-roles/) that keep things running smoothly and help you build valuable communication and presentation skills.
+Each Toastmasters meeting includes a variety of **[speaking and support roles]**(https://www.toastmasters.org/membership/club-meeting-roles/) that keep things running smoothly and help you build valuable communication and presentation skills.
 As you grow more comfortable with the meeting format, you'll be encouraged to try each role—one at a time—as part of your learning journey.
 
 
