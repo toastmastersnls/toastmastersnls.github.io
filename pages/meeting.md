@@ -7,7 +7,9 @@ image:
 
 **Timings**
 
-We meet every 1st and 3rd Monday of the month at 7.15pm for a 7.30pm start
+We meet every 1<sup>st</sup> and 3<sup>rd</sup> Monday of the month at 7.15pm for a 7.30pm start. 
+
+You can find our next meeting date and tentative agenda on [our Club's Toastmaster website](https://toastmasterclub.org/view_agenda.php?t=101461).
 
 **Location**
 
