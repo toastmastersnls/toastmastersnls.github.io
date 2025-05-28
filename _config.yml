@@ -3,7 +3,7 @@ email: wowthemesnet@gmail.com
 timezone: UTC
 baseurl: "/northernlightspeakers.org.uk"
 permalink: "/:title/"
-logo: 'assets/images/ToastmastersLogo3Color (1).png'
+logo: 'assets/images/ToastmastersLogoColor (1).svg'
 favicon: 'assets/images/favicon.ico'
 author: Sal
 paginate: 30
