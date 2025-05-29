@@ -13,8 +13,6 @@ topmenu:
 - title: Roles
   url: "roles/"
 
-- title: Contact
-  url: "contact/"
   
 - title: Join us 
   url: "membership/"
