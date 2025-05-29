@@ -2,7 +2,7 @@
 layout: post
 title:  "Committee Members"
 author: admin
-categories: [ Jekyll, tutorial ]
+categories: [ Member, Committee ]
 image: assets/images/committee.jpg
 ---
 # 2024/25
