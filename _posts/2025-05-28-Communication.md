@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Communication for members"
+author: Admin
 categories: [ Member, WhatsApp ]
 image: assets/images/5.jpg
 ---
