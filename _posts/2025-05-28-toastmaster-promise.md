@@ -3,7 +3,7 @@ layout: post
 title:  "A Toastmaster’s Promise"
 author: 
 categories: [ Member, Promise ]
-image: assets/images/3.jpg
+image: assets/images/promise.png
 ---
 There is more involved in joining Toastmasters than simply showing up regularly at meetings to progress your own journey through the training. 
 
