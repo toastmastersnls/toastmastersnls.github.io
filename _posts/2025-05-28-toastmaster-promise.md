@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A Toastmaster’s Promise"
-author: 
+author: Admin
 categories: [ Member, Promise ]
 image: assets/images/promise.png
 ---
