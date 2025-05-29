@@ -5,14 +5,20 @@ author: Admin
 categories: [ Member, easySPEAK ]
 image: assets/images/1.jpg
 ---
-To organise our meetings and keep a record of our club database we use a programme called **easySPEAK** which has been made available to us and many other clubs, free of charge.
+To help organise our meetings and manage our club records, we use [**easySPEAK**](https://easy-speak.org/)—a free online platform used by many Toastmasters clubs.
 
-All members have access to **easySPEAK**, via **toastmasterclub.org**. Book your speech slots, sign up for roles - this really helps our VPE!
+As a member, you’ll get access to easySPEAK, where you can:
 
-Using **EASYSPEAK** you can also generally keep in touch with what’s going on, and track your individual progress all on the site!
+- Book speech slots
 
-When you become a member, a username and a password will be set up for you. You can change this yourself the first time you visit the site.
+- Sign up for meeting roles
 
-Remember, the more willing you are to become involved in Northern Lights Speakers Club and the worldwide organisation, the faster you will progress your own learning and development.
+- Track your progress
 
-Finally, take some time to visit the international site [**www.toastmasters.org**](http://www.toastmasters.org/) where you will find a huge range of educational materials on offer and more information about this organisation founded in 1924.
+- Stay updated on club activities
+
+Your login details will be set up when you join, and you can update your password the first time you log in.
+
+Getting involved in easySPEAK and club activities is one of the best ways to accelerate your growth as a speaker and leader.
+
+Finally, we also encourage you to explore [www.toastmasters.org—Toastmasters’ official site](http://www.toastmasters.org/)—for a wealth of educational resources and more about the global organisation, founded in 1924.
