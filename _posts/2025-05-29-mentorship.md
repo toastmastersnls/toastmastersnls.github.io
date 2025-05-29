@@ -3,7 +3,7 @@ layout: post
 title:  "Mentorship"
 author: Admin
 categories: [ Member, Mentor ]
-image: assets/images/mentor.png
+image: assets/images/mentor2.png
 ---
 If you're eager to progress quickly through the Toastmasters programme, we strongly recommend working with a Mentor.
 
