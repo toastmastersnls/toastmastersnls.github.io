@@ -17,9 +17,9 @@ topmenu:
   url: "contact/"
   
 - title: Join us 
-  url: "{{ '/membership/' | relative_url }}"
+  url: "membership/"
   class: "ml-2 btn btn-dark text-white px-3"
-  external: true
+  
   
 # Footer Menu
 footermenu:
