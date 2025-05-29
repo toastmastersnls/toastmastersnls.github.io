@@ -1,5 +1,5 @@
 title: "Northern Light Speakers London UK"
-email: nlspeakers@gmail.com
+email: achoi.onki@gmail.com
 timezone: UTC
 baseurl: "/northernlightspeakers.org.uk"
 permalink: "/:title/"
@@ -28,14 +28,14 @@ authors:
     name: Sal
     display_name: Sal
     avatar: 'assets/images/sal.png'
-    email: wowthemesnet@gmail.com
+    email: achoi.onki@gmail.com
     web: https://toastmasterclub.org/clubdata.php?c=125
     description: "Empowering individuals to become effective communicators and leaders."
   john:
     name: John
     display_name: John
     avatar: 'assets/images/john.png'
-    email: wowthemesnet@gmail.com
+    email: achoi.onki@gmail.com
     web: https://toastmasterclub.org/clubdata.php?c=125
     description: "This is the author box. Write a short description of the author here. You are currently previewing Affiliates theme demo, a Jekyll template compatible with Github pages."
 
