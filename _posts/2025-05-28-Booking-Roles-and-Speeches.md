@@ -3,7 +3,7 @@ layout: post
 title:  "Booking Roles and Speeches"
 author: Admin
 categories: [ Member, easySPEAK ]
-image: assets/images/1.jpg
+image: assets/images/presentation.jpg
 ---
 To help organise our meetings and manage our club records, we use [**easySPEAK**](https://easy-speak.org/)—a free online platform used by many Toastmasters clubs.
 
