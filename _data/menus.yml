@@ -17,7 +17,7 @@ topmenu:
   url: "contact/"
   
 - title: Join us 
-  site.baseurl: "membership/"
+  url: "membership/"
   class: "ml-2 btn btn-dark text-white px-3"
   external: true
   
