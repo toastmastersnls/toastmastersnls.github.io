@@ -3,7 +3,7 @@ layout: post
 title:  "Committee Members"
 author: admin
 categories: [ Member, Committee ]
-image: assets/images/committee.png
+image: assets/images/committee.jpg
 ---
 # 2024/25
 
