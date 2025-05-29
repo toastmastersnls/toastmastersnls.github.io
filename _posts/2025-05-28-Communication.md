@@ -2,7 +2,7 @@
 layout: post
 title:  "Communication for members"
 categories: [ Member, WhatsApp ]
-image: assets/images/2.jpg
+image: assets/images/5.jpg
 ---
 **WhatsApp Group**
 
