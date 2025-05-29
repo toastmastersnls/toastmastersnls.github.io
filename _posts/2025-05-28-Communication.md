@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Club communication"
+title:  "Communication for members"
 categories: [ Member, WhatsApp ]
-image: assets/images/1.jpg
+image: assets/images/2.jpg
 ---
 **WhatsApp Group**
 
