@@ -43,7 +43,7 @@ meet every 1<sup>st</sup> and 3<sup>rd</sup> Monday of the month. </p>
       {% for post in paginator.posts %}
       {% unless post.featured == true %}
       <div class="col-md-6 mb-5">
-       <{% include postbox.html %}
+       {% include postbox.html %}
       </div> 
       {% endunless %}
       {% endfor %}
