@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mentorship"
-author: 
+author: Admin
 categories: [ Member, Mentor ]
 image: assets/images/mentor.png
 ---
