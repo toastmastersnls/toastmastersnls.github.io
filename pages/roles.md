@@ -27,6 +27,8 @@ As you grow more comfortable with the meeting format, you'll be encouraged to tr
 
 **Table Topics Speaker:**&nbsp;&nbsp;&nbsp; Practics their impromptu speaking skills.
 
+**Ah-Counter**: Keeps track of ahh, erm and other filler words
+
 **Evaluator:**&nbsp;&nbsp;&nbsp; Provides verbal and written feedback to meeting speakers.
 
 **General Evaluator:**&nbsp;&nbsp;&nbsp; Evaluates everything and everyone, not already evaluated, that takes place during the club meeting.
