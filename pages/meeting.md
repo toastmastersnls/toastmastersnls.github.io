@@ -11,7 +11,7 @@ We meet every 1<sup>st</sup> and 3<sup>rd</sup> Monday of the month (but NOT if 
 
 Meeting ends at around 9:15pm. 
 
-You can find our next meeting date and tentative agenda by visiting [**our Club's Toastmaster website**](https://toastmasterclub.org/view_agenda.php?t=101461).
+You can find our next meeting date and tentative agenda by visiting [**our Club's Toastmaster website**]([https://toastmasterclub.org/view_meeting.php?c=125&show=next).
 
 
 
