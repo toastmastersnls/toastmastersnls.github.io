@@ -9,13 +9,15 @@ image:
 
 We meet every 1<sup>st</sup> and 3<sup>rd</sup> Monday of the month (but NOT if it is a public holiday) at 7.15pm for a 7.30pm start. 
 
+Meeting ends at around 9:15pm. 
+
 You can find our next meeting date and tentative agenda by visiting [**our Club's Toastmaster website**](https://toastmasterclub.org/view_agenda.php?t=101461).
 
 
 
 **Location**
 
-- The Oak and Pastor Pub in Archway (approx. 7 mins walk from Archway station)
+- The Oak and Pastor Pub, 86 Junction Road in Archway (approx. 7 mins walk from Archway station)
 - As you enter the pub, head straight and go **upstairs** to the function room on the left-hand side
 - Nearby parking available from 6.30pm
 
