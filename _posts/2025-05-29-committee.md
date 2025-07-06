@@ -7,18 +7,18 @@ image: assets/images/committee2.png
 ---
 # 2024/25
 
-**PRESIDENT:**&nbsp;&nbsp;&nbsp; Hari
+**PRESIDENT:**&nbsp;&nbsp;&nbsp; Donal Coughlan
 
-**SECRETARY:**&nbsp;&nbsp;&nbsp; Sue
+**VICE PRESIDENT OF EDUCATION:**&nbsp;&nbsp;&nbsp; On Ki Choi
 
-**VP EDUCATION:**&nbsp;&nbsp;&nbsp; Donal
+**VICE PRESIDENT MEMBERSHIP:**&nbsp;&nbsp;&nbsp; Sue Mannering
 
-**VP MEMBERSHIP:**&nbsp;&nbsp;&nbsp; Sue
+**VICE PRESIDENT OF PUBLIC RELATIONS:**&nbsp;&nbsp;&nbsp; Victoria De La Cruz
 
-**VP PUBLIC RELATIONS:**&nbsp;&nbsp;&nbsp; Pete
+**SECRETARY:**&nbsp;&nbsp;&nbsp; Peter Croft
 
-**SERGEANT-AT-ARMS:**&nbsp;&nbsp;&nbsp; On Ki
+**TREASURER:**&nbsp;&nbsp;&nbsp; Simon Cooper
 
-**TREASURER:**&nbsp;&nbsp;&nbsp; Simon
+**SERGEANT AT ARMS:**&nbsp;&nbsp;&nbsp; Hezi YAACOV-HAI
 
-**VP MENTORING:**&nbsp;&nbsp;&nbsp; Simon and Sue
+**IMMEDIATE PAST PRESIDENT:**&nbsp;&nbsp;&nbsp; Hari Kanth
