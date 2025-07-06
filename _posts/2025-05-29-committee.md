@@ -21,4 +21,4 @@ image: assets/images/committee2.png
 
 **SERGEANT AT ARMS:**&nbsp;&nbsp;&nbsp; Hezi Yaacov-Hai
 
-**VICE PRESIDENT MENTORING:**&nbsp;&nbsp;&nbsp; Hari Kanth
+**IMMEDIATE PAST PRESIDENT AND VICE PRESIDENT MENTORING:**&nbsp;&nbsp;&nbsp; Hari Kanth
