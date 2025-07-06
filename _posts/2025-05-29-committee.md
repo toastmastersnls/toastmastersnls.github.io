@@ -5,9 +5,11 @@ author: admin
 categories: [ Member, Committee ]
 image: assets/images/committee2.png
 ---
-# 2024/25
+# 2025/26
 
 **PRESIDENT:**&nbsp;&nbsp;&nbsp; Donal Coughlan
+
+**SECRETARY:**&nbsp;&nbsp;&nbsp; Peter Croft
 
 **VICE PRESIDENT OF EDUCATION:**&nbsp;&nbsp;&nbsp; On Ki Choi
 
@@ -15,10 +17,8 @@ image: assets/images/committee2.png
 
 **VICE PRESIDENT OF PUBLIC RELATIONS:**&nbsp;&nbsp;&nbsp; Victoria De La Cruz
 
-**SECRETARY:**&nbsp;&nbsp;&nbsp; Peter Croft
-
 **TREASURER:**&nbsp;&nbsp;&nbsp; Simon Cooper
 
-**SERGEANT AT ARMS:**&nbsp;&nbsp;&nbsp; Hezi YAACOV-HAI
+**SERGEANT AT ARMS:**&nbsp;&nbsp;&nbsp; Hezi Yaacov-Hai
 
-**IMMEDIATE PAST PRESIDENT:**&nbsp;&nbsp;&nbsp; Hari Kanth
+**VICE PRESIDENT MENTORING:**&nbsp;&nbsp;&nbsp; Hari Kanth
