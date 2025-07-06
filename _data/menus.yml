@@ -25,7 +25,5 @@ footermenu:
 - title: Home
   url: ""
 
-- title: Email: nlspeakers@gmail.com
- 
-  
+- title: "Email: nlspeakers@gmail.com"
   external: true
