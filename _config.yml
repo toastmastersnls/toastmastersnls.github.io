@@ -1,7 +1,7 @@
-title: "Northern Lights Speakers London UK"
+title: "Northern Light Speakers London UK"
 email: achoi.onki@gmail.com
 timezone: UTC
-baseurl: "/northernlightsspeakers.org.uk"
+baseurl: "/northernlightspeakers.org.uk"
 permalink: "/:title/"
 logo: 'assets/images/ToastmastersLogoColor (1) (1).svg'
 favicon: 'assets/images/ToastmastersLogoColor (1).ico'
