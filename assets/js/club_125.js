@@ -1,0 +1,1 @@
+document.writeln("<b>Next Meeting</b><br /><a href=\"https://toastmasterclub.org/view_meeting.php?t=103783\" target=\"_blank\" title=\"The next meeting of Northern Lights Speakers will be 15 Sep 25 at 19:30\">19:30, 15 Sep 25</a><br />The Oak and Pastor<br />Hosted by: <a href=\"https://toastmasterclub.org/\" target=\"_blank\">toastmasterclub.org</a>");
