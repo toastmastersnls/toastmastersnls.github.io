@@ -5,17 +5,15 @@ author: Admin
 categories: [ Member, easySPEAK ]
 image: assets/images/presentation.png
 ---
-To help organise our meetings and manage our club records, we use [**easySPEAK**](https://easy-speak.org/)—a free online platform used by many Toastmasters clubs.
+To help organise our meetings and manage our club records, we use [**easySPEAK**](https://toastmasterclub.org/portal.php?page=720)—a free online platform used by many Toastmasters clubs.
 
-As a member, you’ll get access to easySPEAK, where you can:
+As a member, you’ll get access to easySPEAK, where you are strongly encouraged to do this for each meeting:
 
-- Book speech slots
+- Indicate your attendance
 
-- Sign up for meeting roles
+- Book speech slots or meeting roles
 
-- Track your progress
-
-- Stay updated on club activities
+You can also keep track of your past speeches and role history to help you advance along your pathway(s).
 
 Your login details will be set up when you join, and you can update your password the first time you log in.
 
