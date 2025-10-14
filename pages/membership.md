@@ -6,7 +6,7 @@ image:
 ---
 
 
-You're  welcome to attend our club meetings as a guest—free of charge—to see if we are the right fit for you. You can visit as many times as you like, but to access the full benefits of Toastmasters, you will need to become a member.
+You're  welcome to attend our club meetings as a guest—free of charge—to see if we are the right fit for you. You can make several visits to our Club until you decide if you would like to join our Club.
 
 ## **Joining us**
 
