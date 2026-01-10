@@ -32,7 +32,7 @@ You won’t need to pay this again (unless your membership lapses and you re-joi
 
 ##### <br/> How your membership fees contribute:
 
-- Venue hire (Oak and Pastor Function Room)
+- Venue hire (Function Room)
 - Toastmasters International fees
 - Equipment storage
 - Social media subscriptions (e.g. Meetup)
