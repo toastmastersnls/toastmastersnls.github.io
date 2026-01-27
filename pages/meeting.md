@@ -7,7 +7,7 @@ image:
 
 **Timings**
 
-We meet every 2<sup>nd</sup> and 4<sup>th</sup> Monday of the month (but NOT if it is a public holiday) at 7.15pm for a 7.30pm start. 
+We meet every 1<sup>st</sup> and 3<sup>rd</sup> Monday of the month (but NOT if it is a public holiday) at 7.15pm for a 7.30pm start. 
 
 Meeting ends at around 9:15pm. 
 
@@ -18,4 +18,4 @@ Meeting ends at around 9:15pm.
 - As you enter the pub, head straight and go **upstairs** to the function room 
 - Nearby parking available from 6.30pm
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d158723.38736906505!2d-0.368020254646598!3d51.56726323503935!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761bac1b4019a5%3A0x16b260c04ca27e30!2sSt%20John&#39;s%20Tavern!5e0!3m2!1sen!2suk!4v1765885915242!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>"
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d158723.38736906505!2d-0.368020254646598!3d51.56726323503935!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761bac1b4019a5%3A0x16b260c04ca27e30!2sSt%20John&#39;s%20Tavern!5e0!3m2!1sen!2suk!4v1765885915242!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
