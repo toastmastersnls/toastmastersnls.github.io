@@ -36,7 +36,7 @@ Summary:
 
 After selecting a pathway, you will gain access to a wide range of online learning materials inside your [Base Camp](https://app.basecamp.toastmasters.org/dashboard). These resources allow you to learn and complete your projects anytime, anywhere.
 
-![Base Camp Dashboard](/assets/images/basecamp-dashboard.svg)
+![Base Camp Dashboard](/assets/images/basecamp-new.png)
 
 ### 2.2 Mark your speeches as complete
 
