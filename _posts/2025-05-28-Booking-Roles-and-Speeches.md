@@ -43,4 +43,4 @@ After selecting a pathway, you will gain access to a wide range of online learni
 Use the materials in Base Camp to familiarise yourself with the required and optional speeches in your selected pathway, and plan the order in which you will complete them, starting from Level 1.
 
 After you have reviewed the resources and finished all required activities and speeches in each level, mark that level as complete. The system will then notify the Vice President Education (VPE), who can approve your submission so your level is officially recorded in the Toastmasters International system.
-![Level completion screenshot](/assets/images/level-completion.png)
+![Level completion screenshot](/assets/images/complete-level.png)
