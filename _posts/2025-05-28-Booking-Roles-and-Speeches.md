@@ -25,7 +25,7 @@ Your login details will be set up when you join, and you can update your passwor
 As a member, your first step is to select your Pathways programme.
 Watch the video below for a walkthrough of the process:
 
-[Watch the walkthrough on YouTube](https://youtu.be/-YF9c6aYQxU)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-YF9c6aYQxU" title="Pathways walkthrough" frameborder="0" allowfullscreen></iframe>
 
 Summary:
 
