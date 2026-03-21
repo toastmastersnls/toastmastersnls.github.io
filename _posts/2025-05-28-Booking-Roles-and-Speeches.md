@@ -45,7 +45,7 @@ After selecting a pathway, you will gain access to a wide range of online learni
 
 To help you choose your Path, an overview of the available options is provided here: 
 [Pathways Paths and Core Competencies](/assets/files/8077-paths-and-core-competencies.pdf) 
-Please note that if you joined after 2024, you will only have access to the six new Paths, rather than the five Legacy Paths.
+Please note that if you joined after 2024, you will only have access to the six new Paths (Dynamic Leadership, Engaging Humor, Motivational Strategies, Persuasive Influence, Presentation Mastery, Visionary Communication)), rather than the five Legacy Paths.
 
 ![Base Camp Dashboard](/assets/images/basecamp-new.png)
 
@@ -53,7 +53,7 @@ Please note that if you joined after 2024, you will only have access to the six 
 
 Use the materials in Base Camp to familiarise yourself with the required and optional speeches in your selected pathway, and plan the order in which you will complete them, starting from Level 1.
 
-💡It is your responsibility to keep a good record of your completed speeches along the way (Date, which speech in the pathway you have completed).
+⭐It is your responsibility to maintain an accurate record of your completed speeches, including the date and the specific speech completed within your pathway.
 
 After you have reviewed the resources and finished all required activities and speeches in each level, mark that level as complete. The system will then notify the Vice President Education (VPE), who can approve your submission so your level is officially recorded in the Toastmasters International system.
 
