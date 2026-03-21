@@ -55,6 +55,6 @@ Use the materials in Base Camp to familiarise yourself with the required and opt
 
 ⭐It is your responsibility to maintain an accurate record of your completed speeches, including the date and the specific speech completed within your pathway.
 
-After you have reviewed the resources and finished all required activities and speeches in each level, mark that level as complete. The system will then notify the Vice President Education (VPE), who can approve your submission so your level is officially recorded in the Toastmasters International system.
+After you have reviewed the resources and finished all required activities and speeches in each level, mark that level as complete. The system will then notify the Base Camp Manager in the Club, who can approve your submission so your level is officially recorded in the Toastmasters International system.
 
 ![Level completion screenshot](/assets/images/complete-level.png)
