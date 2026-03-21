@@ -47,7 +47,7 @@ After selecting a pathway, you will gain access to a wide range of online learni
 
 To assist you in selecting your Path, an overview of the Paths available to you is provided here. Explore the projects and speeches within each path by clicking on the Path that interests you. Some of the information here is also available for download as a PDF file:
 
-Pathways Paths and Core Competencies
+[Pathways Paths and Core Competencies](/assets/files/8087-paths-and-core-competencies.pdf)
 
 ### 2.2 Mark your speeches as complete
 
