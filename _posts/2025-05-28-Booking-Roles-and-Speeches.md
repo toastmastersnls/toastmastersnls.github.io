@@ -64,12 +64,6 @@ Please note that if you joined after 2024, you will have access to the new six n
 
 Use the materials in Base Camp to familiarise yourself with the required and optional speeches in your selected pathway, and plan the order in which you will complete them, starting from Level 1.
 
-⭐It is your responsibility to maintain an accurate record of your completed speeches, including the date and the specific speech completed within your pathway.
-
-<b>How to check which speeches you completed?</b>
-On [**easySPEAK**](https://toastmasterclub.org/portal.php?page=720) after you logged in, under 'My Participation'>'View my Speech Progress' you can see a list of your speeches in your Pathway(s).
-![Level completion screenshot](/assets/images/Easyspeak-speech-progress.png)
-
  After you have reviewed the resources and finished all required activities and speeches in each level, mark that level as complete. The system will then notify the Base Camp Managers in the Club, who can approve your submission so your level is officially recorded in the Toastmasters International system.
 
 ![Level completion screenshot](/assets/images/Capture.PNG)
