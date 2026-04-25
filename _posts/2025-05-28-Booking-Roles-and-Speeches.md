@@ -72,7 +72,7 @@ On [**easySPEAK**](https://toastmasterclub.org/portal.php?page=720) after you lo
 
  After you have reviewed the resources and finished all required activities and speeches in each level, mark that level as complete. The system will then notify the Base Camp Managers in the Club, who can approve your submission so your level is officially recorded in the Toastmasters International system.
 
-![Level completion screenshot](/assets/images/capture.png)
-![Level completion screenshot2](/assets/images/capture2.png)
+![Level completion screenshot](/assets/images/Capture.PNG)
+![Level completion screenshot2](/assets/images/Capture2.PNG)
 
 ![Submission completion screenshot](/assets/images/completion-screenshot.png) 
