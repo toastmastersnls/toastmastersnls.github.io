@@ -46,7 +46,7 @@ Summary:
 2. If this is your first visit, create a username and password. If you can't remember, click 'Forgot password'.
 3. Once logged in, go to the [Pathways](https://www.toastmasters.org/education/pathways) page.
 4. Scroll down and click **Choose a path**.
-Note The cost of the first path is covered by your your new member fee.  Additional paths may be purchased for USD$20 each.
+Note The cost of the first path is covered by your your new member fee.  
 5. Click Continue to Path Selection.
 6. Click Take Your Assessment.
 7. Select your language, then click Start.
@@ -56,7 +56,7 @@ After selecting a pathway, you will gain access to a wide range of online learni
 
 To help you choose your Path, an overview of the available options is provided here: 
 [Pathways Paths and Core Competencies](/assets/files/8077-paths-and-core-competencies.pdf) 
-Please note that if you joined after 2024, you will only have access to the six new Paths (Dynamic Leadership, Engaging Humor, Motivational Strategies, Persuasive Influence, Presentation Mastery, Visionary Communication)), rather than the five Legacy Paths.
+Please note that if you joined after 2024, you will have access to the new six new Paths (Dynamic Leadership, Engaging Humor, Motivational Strategies, Persuasive Influence, Presentation Mastery, Visionary Communication)), rather than the five Legacy Paths.
 
 ![Base Camp Dashboard](/assets/images/basecamp-new.png)
 
