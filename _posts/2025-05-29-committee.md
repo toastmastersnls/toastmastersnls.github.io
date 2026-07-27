@@ -5,7 +5,7 @@ author: admin
 categories: [ Member, Committee ]
 image: assets/images/committee2.png
 ---
-# 2025/26
+# 2026/27
 
 **PRESIDENT:**&nbsp;&nbsp;&nbsp; Sue 
 
