@@ -10,10 +10,22 @@ You're  welcome to attend our club meetings as a guest—free of charge—to see
 
 ## **Joining us**
 
-Once you decide to join, you can do so by following these steps: 
+Once you decide to join, you can do so by following the steps:
 
-1. Email the <a href="{{site.baseurl}}/membershipform">joining form</a> to nlspeakers@gmail.com
-2. Upon receiving the form, we will email you our bank details, for you to pay one of the amounts (6 or 12 months, see below) by bank transfer. 
+1. Copy and paste this <a href="{{site.baseurl}}/membershipform">joining form</a>, complete it, email it to nlspeakers@gmail.com
+2. Pay one of the amounts (6 or 12 months, see below) by bank transfer. 
+
+
+- **Account Name**   Northern Lights Speakers Club
+
+- **Account No**  	 90045742
+
+- **Sort Code**	     60 04 24
+
+- **Reference**	     Your Name
+
+We kindly ask that payments are made via bank transfer.
+
 
 ### **New member**
 
